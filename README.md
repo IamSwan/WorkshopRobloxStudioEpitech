@@ -10,28 +10,7 @@
   </ol>
 </details>
 
----
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-Prerequisites
-
-
-
 ## 1. Getting Started
-test
 
 ## Prerequisites
 
