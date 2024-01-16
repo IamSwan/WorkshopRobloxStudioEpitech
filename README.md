@@ -31,7 +31,7 @@ Prerequisites
 
 
 ## 1. Getting Started
-<ol> test </ol>
+test
 
 ## Prerequisites
 
