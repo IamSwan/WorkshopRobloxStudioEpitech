@@ -14,6 +14,21 @@
 
 # 1. Getting Started
 
-## Prerequisites
+## <li> Prerequisites </li>
 
-## Installation
+- UwU
+- UwU
+- UwU
+- UwU
+
+## <li> Installation </li>
+
+<ol>
+
+<li> UwU </li>
+<li> UwU </li>
+<li> UwU </li>
+<li> UwU </li>
+
+
+</ol>
