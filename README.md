@@ -22,7 +22,6 @@
 
 ## <li> Starting </li>
 
-First, create a new project
+First, create a new project (baseplate)
 <br>
 (image)
-
