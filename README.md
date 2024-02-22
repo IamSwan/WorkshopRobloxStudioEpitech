@@ -14,8 +14,6 @@
 First, create a new project (baseplate)
 ![roblox studio main menu](image.png)
 
-Créer une ui basique <br>
-
 Once you created your project, your first step will be to save it, give it a name and make sure team create is turned on.
 
 ### New world, new buildings, learn how to place a Part!
