@@ -16,19 +16,13 @@
 
 ## <li> Prerequisites </li>
 
-- UwU
-- UwU
-- UwU
-- UwU
+- [Roblox Studio](https://roblox.com)
+- [Flathub](https://flathub.org/setup/Ubuntu) (if you're on linux)
+- [Vinegar](https://flathub.org/apps/org.vinegarhq.Vinegar)
 
-## <li> Installation </li>
+## <li> Starting </li>
 
-<ol>
+First, create a new project
+<br>
+(image)
 
-<li> UwU </li>
-<li> UwU </li>
-<li> UwU </li>
-<li> UwU </li>
-
-
-</ol>
