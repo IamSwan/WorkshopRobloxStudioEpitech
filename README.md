@@ -43,9 +43,7 @@ In Roblox Studio, there are 3 important concepts to remember:
 
 To make your inventory system, every single of these concepts will need to be understood.
 
-In order to do so, we'll proceed by steps.
-
-First of all, make a localscript in "StarterPlayerCharacter" and make it send a message to a script in "ServerScriptService" using a RemoteEvent stored in "ReplicatedStorage"
+Make a localscript in "StarterPlayerCharacter" and make it send a message to a script in "ServerScriptService" using a RemoteEvent stored in "ReplicatedStorage"
 
 <br>
 Great! you made it through the hardest part!
