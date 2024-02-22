@@ -47,7 +47,7 @@ Make a localscript in "StarterPlayerCharacter" and make it send a message to a s
 <br>
 Great! you made it through the hardest part!
 <br>
-Now you have all the keys needed to make your own inventory system, so glhf! (Don't hesitate to ask questions if you're struggling, I may provide some useful tips, who knows?)
+Now you have all the keys needed to make your own inventory system, so good luck have fun! (Don't hesitate to ask questions if you're struggling, I may provide some useful tips, who knows?)
 
 
 ## | Useful links |
