@@ -7,7 +7,6 @@
 - [Flathub](https://flathub.org/setup/Ubuntu) (if you're on linux)
 - [Vinegar](https://flathub.org/apps/org.vinegarhq.Vinegar) (if you're on linux)
 
-<br>
 
 ## | Starting |
 
@@ -41,29 +40,12 @@ To make your inventory system, every single of these concepts will need to be un
 
 In order to do so, we'll proceed by steps.
 
-#### Replication
 First of all, make a localscript in "StarterPlayerCharacter" and make it send a message to a script in "ServerScriptService" using a RemoteEvent stored in "ReplicatedStorage"
 
-#### Loading projects
-Now that you're somewhat familiar with the environment, load the project provided on the github of this workshop.
+<br>
+Great! you made it through the hardest part!
 
-#### Picking items up!
-As you can see in the provided file, there's a piece of wood. It will be used as a test item.
-
-There's a script under the piece of wood.
-Using proximity prompt "triggered" event (see [Proximity Prompt Documentation](https://create.roblox.com/docs/fr-fr/reference/engine/classes/ProximityPrompt)), make the script print the name of the block that has been picked up.
-
-#### Storing the items!
-Now that you notified the server you picked the item up, you got to store it!
-
-In order to do so, you will need to create a folder, using the script called "PlayerHandler" in "ServerScriptService". Replace the comments with your code!
-
-You're gonna need to twist the PickingUp script to make it create a "IntValue" in the inventory folder you just create.
-
-In addition to that, if the IntValue with the block name already exist you got to make sure it increments the current Value, without adding a new IntValue!
-
-*hint: research the :FindFirstChild() function!*
-
+Now you have all the keys needed to make your own inventory system, so glhf! (Don't hesitate to ask questions if you're struggling, I may provide some useful tips who knows?)
 
 
 ## | Useful links |
