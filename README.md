@@ -55,17 +55,30 @@ Using proximity prompt "triggered" event (see [Proximity Prompt Documentation](h
 
 #### Storing the items!
 Now that you notified the server you picked the item up, you got to store it!
-
 In order to do so, you will need to create a folder, using the script called "PlayerHandler" in "ServerScriptService". Replace the comments with your code!
 
 You're gonna need to twist the PickingUp script to make it create a "IntValue" in the inventory folder you just create.
 
 In addition to that, if the IntValue with the block name already exist you got to make sure it increments the current Value, without adding a new IntValue!
 
+*hint: research the :FindFirstChild() function!*
+
 #### The UI!
 Now we got to make the content of our inventory match the content of the actual folder!
 
-*hint: research the :FindFirstChild() function!*
+Go back to the Player Handler and detect when a child is added to the inventory folder, then fire the RemoteEvent for the player.
+
+Also make sure every child update (better indication in the code.)
+
+Now, the UILocalScript will receive the informations that you just sent.
+
+Complete the code to make the item appear in the Ui!
+
+<br>
+
+Congrats! you've made the hardest part! now you can pick up items and they store in the inventory! Though the system is not entirely done!
+
+For this very last step, I want you guys to use what we discovered previously to code a dropping system!
 
 
 
