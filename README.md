@@ -46,6 +46,8 @@ In order to do so, we'll proceed by steps.
 #### Replication
 First of all, make a localscript in "StarterPlayerCharacter" and make it send a message to a script in "ServerScriptService" using a RemoteEvent stored in "ReplicatedStorage"
 
+tip: to get any object in the game type : game.path.to.the.object
+
 #### Loading projects
 Now that you're somewhat familiar with the environment, load the project provided on the github of this workshop.
 
