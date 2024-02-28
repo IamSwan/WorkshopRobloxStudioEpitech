@@ -24,6 +24,8 @@ Usually, developers start with making a print("hello world") script, but if you 
 Erase that line, and start making your own script! <br>
 Your goal: making the part invisible after 10 seconds. (You can ask questions, but your most useful ressource will be the [documentation](https://create.roblox.com/docs/fr-fr/reference/engine/libraries/task#wait)!
 
+(Important keywords: script, part, parent, transparency)
+
 ### New world!
 Congratulations, you discovered all the key elements to make an inventory system! The final boss of this workshop will be to make a functionning inventory system, but, don't worry, I'm never gonna let you down!
 
