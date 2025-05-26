@@ -4,6 +4,7 @@
 ## | Prerequisites |
 
 - [Roblox Studio](https://roblox.com)
+- Windows 10 / 11
 
 ## | Starting |
 
