@@ -4,8 +4,6 @@
 ## | Prerequisites |
 
 - [Roblox Studio](https://roblox.com)
-- [Flathub](https://flathub.org/setup/Ubuntu) (if you're on linux)
-- [Vinegar](https://flathub.org/apps/org.vinegarhq.Vinegar) (if you're on linux)
 
 <br>
 
