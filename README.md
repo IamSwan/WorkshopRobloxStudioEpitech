@@ -5,6 +5,12 @@
 
 - [Roblox Studio](https://roblox.com)
 - Windows 10 / 11
+- workshop_template.rbxl
+
+## | Prerequisites for experts 😎 |
+- [Roblox Studio](https://roblox.com)
+- [Rojo](https://rojo.space/)
+- NO TEMPLATE FOR YOU >:)
 
 ## | Starting |
 
