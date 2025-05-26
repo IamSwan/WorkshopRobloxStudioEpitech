@@ -5,8 +5,6 @@
 
 - [Roblox Studio](https://roblox.com)
 
-<br>
-
 ## | Starting |
 
 First, create a new project (baseplate)
