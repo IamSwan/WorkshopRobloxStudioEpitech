@@ -1,0 +1,29 @@
+{
+  "name": "Workshop",
+  "tree": {
+    "$className": "DataModel",
+
+    "ReplicatedStorage": {
+      "Shared": {
+        "$path": "src/shared",
+        "$ignoreUnknownInstances": true
+      }
+    },
+
+    "ServerScriptService": {
+      "Server": {
+        "$path": "src/server",
+          "$ignoreUnknownInstances": true
+      }
+    },
+
+    "StarterPlayer": {
+      "StarterPlayerScripts": {
+        "Client": {
+          "$path": "src/client",
+          "$ignoreUnknownInstances": true
+        }
+      }
+    }
+  }
+}
